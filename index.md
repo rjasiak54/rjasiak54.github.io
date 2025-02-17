@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+## Welcome
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My name is Ryan Jasiak. I'm creating this blog to store and share my experiences with programming, quant, and miscillaneous items. 
